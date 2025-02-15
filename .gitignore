@@ -1,0 +1,5 @@
+compile_commands.json
+pipex
+.ccls-cache
+.cache
+libft
